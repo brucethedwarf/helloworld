@@ -17,5 +17,6 @@ class Program
         //
         //the thrid step the idoit just got scammed
         Console.WriteLine($" okay and we are done thanks for your account {firstName} and your password is {lastName} so uh thanks for your account loser!");
+
     }
 }
